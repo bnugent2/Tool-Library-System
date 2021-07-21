@@ -1,0 +1,6 @@
+C:\Users\bnuge\source\repos\CAB301_Assignment\CAB301_Assignment\obj\Debug\CAB301_Assignment.csprojAssemblyReference.cache
+C:\Users\bnuge\source\repos\CAB301_Assignment\CAB301_Assignment\bin\Debug\CAB301_Assignment.exe.config
+C:\Users\bnuge\source\repos\CAB301_Assignment\CAB301_Assignment\bin\Debug\CAB301_Assignment.exe
+C:\Users\bnuge\source\repos\CAB301_Assignment\CAB301_Assignment\bin\Debug\CAB301_Assignment.pdb
+C:\Users\bnuge\source\repos\CAB301_Assignment\CAB301_Assignment\obj\Debug\CAB301_Assignment.exe
+C:\Users\bnuge\source\repos\CAB301_Assignment\CAB301_Assignment\obj\Debug\CAB301_Assignment.pdb
